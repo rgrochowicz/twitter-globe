@@ -1,0 +1,11 @@
+body {
+	background-image: url('/Space.jpg');
+}
+
+#tweet-container {
+	position: absolute;
+	right: 15px;
+}
+#globe-container {
+	position: absolute;
+}
